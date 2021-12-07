@@ -1,0 +1,1 @@
+export const hansTestValue = 121094
